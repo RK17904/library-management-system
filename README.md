@@ -1,6 +1,9 @@
 # 📚 Library Manager
 
 A modern, full-stack web application for managing library book records. This project demonstrates a seamless integration between a **React (TypeScript)** frontend and a **Spring Boot** backend, featuring a polished, full-screen dashboard UI.
+---
+![Dashboard View](./output.png)
+---
 
 ## 🚀 Tech Stack
 
